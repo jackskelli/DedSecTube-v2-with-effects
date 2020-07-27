@@ -1,0 +1,13 @@
+#!/bin/bash
+
+sudo apt install git -y
+sudo apt-get install ffmpeg -y
+sudo apt install python -y
+sudo apt install python2 -y
+sudo apt install python3 -y
+sudo apt-get install -y python-pip
+sudo apt-get install -y python3-pip
+sudo pip install youtue-dl -y
+sudo apt-get install youtube-dl -y
+sudo pip install --upgrade youtube-dl
+sudo apt-get install -y libav-tools
